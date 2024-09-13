@@ -1,1 +1,1 @@
-printf();
+printf(int = 4);
