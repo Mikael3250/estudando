@@ -47,3 +47,5 @@ int main()
     system("pause");
     return (0);
 }
+
+/* comentario em c*/
